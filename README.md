@@ -1,3 +1,3 @@
 # git clone https://github.com/thanhdztam/Thanh
-# cd Thanhdz
+# cd Thanh
 # go build httpflood.go
